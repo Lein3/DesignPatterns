@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Цепочка Обязан
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Интерпретатор (Interpreter)", "Интерпретатор (Interpreter)\Интерпретатор (Interpreter).csproj", "{D89FC638-450A-40D2-9D89-99F1EBDDC61A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Посредник (Mediator)", "Посредник (Mediator)\Посредник (Mediator).csproj", "{DE8BFDB5-9DEB-467D-B680-CE584BB938ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +93,10 @@ Global
 		{D89FC638-450A-40D2-9D89-99F1EBDDC61A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D89FC638-450A-40D2-9D89-99F1EBDDC61A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D89FC638-450A-40D2-9D89-99F1EBDDC61A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE8BFDB5-9DEB-467D-B680-CE584BB938ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE8BFDB5-9DEB-467D-B680-CE584BB938ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE8BFDB5-9DEB-467D-B680-CE584BB938ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE8BFDB5-9DEB-467D-B680-CE584BB938ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -108,6 +114,7 @@ Global
 		{9DFA5558-E24D-4ED2-9A36-C90E307E144E} = {09A25520-45BC-462D-976A-4DB7A9C47DF7}
 		{BC2B65F2-CAC1-4447-8F7C-A2D9F685ABC8} = {09A25520-45BC-462D-976A-4DB7A9C47DF7}
 		{D89FC638-450A-40D2-9D89-99F1EBDDC61A} = {09A25520-45BC-462D-976A-4DB7A9C47DF7}
+		{DE8BFDB5-9DEB-467D-B680-CE584BB938ED} = {09A25520-45BC-462D-976A-4DB7A9C47DF7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7A7A2F73-9FFF-49B0-A857-48A49F229847}
