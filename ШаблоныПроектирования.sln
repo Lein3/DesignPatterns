@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Команда (Command)", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Шаблонный метод (Template Method)", "Шаблонный метод (Template Method)\Шаблонный метод (Template Method).csproj", "{A55EAC97-667D-48ED-B450-59EC18C4A30B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Состояние (State)", "Состояние (State)\Состояние (State).csproj", "{9DFA5558-E24D-4ED2-9A36-C90E307E144E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +75,10 @@ Global
 		{A55EAC97-667D-48ED-B450-59EC18C4A30B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A55EAC97-667D-48ED-B450-59EC18C4A30B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A55EAC97-667D-48ED-B450-59EC18C4A30B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DFA5558-E24D-4ED2-9A36-C90E307E144E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DFA5558-E24D-4ED2-9A36-C90E307E144E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DFA5558-E24D-4ED2-9A36-C90E307E144E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DFA5558-E24D-4ED2-9A36-C90E307E144E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -87,6 +93,7 @@ Global
 		{D771AA73-A0DA-4EE4-AF3C-D23836DC4C30} = {09A25520-45BC-462D-976A-4DB7A9C47DF7}
 		{8F18236D-4E90-4C49-B64A-AE35CA09B914} = {09A25520-45BC-462D-976A-4DB7A9C47DF7}
 		{A55EAC97-667D-48ED-B450-59EC18C4A30B} = {09A25520-45BC-462D-976A-4DB7A9C47DF7}
+		{9DFA5558-E24D-4ED2-9A36-C90E307E144E} = {09A25520-45BC-462D-976A-4DB7A9C47DF7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7A7A2F73-9FFF-49B0-A857-48A49F229847}
