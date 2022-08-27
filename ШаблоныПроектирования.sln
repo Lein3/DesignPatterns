@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Фабричный мето
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Абстрактная фабрика (Abstract Factory)", "Абстрактная фабрика (Abstract Factory)\Абстрактная фабрика (Abstract Factory).csproj", "{A80CBA2A-C79E-4584-99DA-3F2A32FBB3BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Одиночка (Singleton)", "Одиночка (Singleton)\Одиночка (Singleton).csproj", "{16BD3144-0BDA-4AA1-945A-6E2D1E95F41F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{A80CBA2A-C79E-4584-99DA-3F2A32FBB3BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A80CBA2A-C79E-4584-99DA-3F2A32FBB3BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A80CBA2A-C79E-4584-99DA-3F2A32FBB3BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16BD3144-0BDA-4AA1-945A-6E2D1E95F41F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BD3144-0BDA-4AA1-945A-6E2D1E95F41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BD3144-0BDA-4AA1-945A-6E2D1E95F41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BD3144-0BDA-4AA1-945A-6E2D1E95F41F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,6 +42,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{5B498DDF-BC56-4F43-B136-A95ADBEE43CC} = {4692B606-BA50-464B-A917-6E9CA1D39401}
 		{A80CBA2A-C79E-4584-99DA-3F2A32FBB3BA} = {4692B606-BA50-464B-A917-6E9CA1D39401}
+		{16BD3144-0BDA-4AA1-945A-6E2D1E95F41F} = {4692B606-BA50-464B-A917-6E9CA1D39401}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7A7A2F73-9FFF-49B0-A857-48A49F229847}
