@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Стратегия (Strateg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Наблюдатель (Observer)", "Наблюдатель (Observer)\Наблюдатель (Observer).csproj", "{D771AA73-A0DA-4EE4-AF3C-D23836DC4C30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Команда (Command)", "Команда (Command)\Команда (Command).csproj", "{8F18236D-4E90-4C49-B64A-AE35CA09B914}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{D771AA73-A0DA-4EE4-AF3C-D23836DC4C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D771AA73-A0DA-4EE4-AF3C-D23836DC4C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D771AA73-A0DA-4EE4-AF3C-D23836DC4C30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F18236D-4E90-4C49-B64A-AE35CA09B914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F18236D-4E90-4C49-B64A-AE35CA09B914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F18236D-4E90-4C49-B64A-AE35CA09B914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F18236D-4E90-4C49-B64A-AE35CA09B914}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -73,6 +79,7 @@ Global
 		{400BEAAF-DC17-4E37-AC26-55731F1D93DD} = {4692B606-BA50-464B-A917-6E9CA1D39401}
 		{D83D03E7-DD47-4DF6-853D-CD18E3F7A7A9} = {09A25520-45BC-462D-976A-4DB7A9C47DF7}
 		{D771AA73-A0DA-4EE4-AF3C-D23836DC4C30} = {09A25520-45BC-462D-976A-4DB7A9C47DF7}
+		{8F18236D-4E90-4C49-B64A-AE35CA09B914} = {09A25520-45BC-462D-976A-4DB7A9C47DF7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7A7A2F73-9FFF-49B0-A857-48A49F229847}
