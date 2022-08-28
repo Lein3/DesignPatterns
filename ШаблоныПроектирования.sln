@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Декоратор (Decorat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Адаптер (Adapter)", "Адаптер (Adapter)\Адаптер (Adapter).csproj", "{A6971601-2EB1-4B95-83F0-6B63076DC500}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Фасад (Facade)", "Фасад (Facade)\Фасад (Facade).csproj", "{C545110D-A125-4989-8361-8C58F77D785D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{A6971601-2EB1-4B95-83F0-6B63076DC500}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6971601-2EB1-4B95-83F0-6B63076DC500}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6971601-2EB1-4B95-83F0-6B63076DC500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C545110D-A125-4989-8361-8C58F77D785D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C545110D-A125-4989-8361-8C58F77D785D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C545110D-A125-4989-8361-8C58F77D785D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C545110D-A125-4989-8361-8C58F77D785D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -145,6 +151,7 @@ Global
 		{F8637956-4CA7-4D49-91C2-B54183471BC9} = {09A25520-45BC-462D-976A-4DB7A9C47DF7}
 		{C88B5D5C-935A-45D9-A420-EFE080853328} = {1A82A1FF-86D3-443C-AEC5-FEE52AEC0080}
 		{A6971601-2EB1-4B95-83F0-6B63076DC500} = {1A82A1FF-86D3-443C-AEC5-FEE52AEC0080}
+		{C545110D-A125-4989-8361-8C58F77D785D} = {1A82A1FF-86D3-443C-AEC5-FEE52AEC0080}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7A7A2F73-9FFF-49B0-A857-48A49F229847}
