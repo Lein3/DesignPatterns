@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Заместитель (П�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Мост (Bridge)", "Мост (Bridge)\Мост (Bridge).csproj", "{C6256C19-8D95-42AA-832C-43914351B695}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Приспособленец (Flyweight)", "Приспособленец (Flyweight)\Приспособленец (Flyweight).csproj", "{A5DE273C-0F32-4A68-965B-CFF9FF2A2923}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{C6256C19-8D95-42AA-832C-43914351B695}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6256C19-8D95-42AA-832C-43914351B695}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6256C19-8D95-42AA-832C-43914351B695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5DE273C-0F32-4A68-965B-CFF9FF2A2923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5DE273C-0F32-4A68-965B-CFF9FF2A2923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5DE273C-0F32-4A68-965B-CFF9FF2A2923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5DE273C-0F32-4A68-965B-CFF9FF2A2923}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -173,6 +179,7 @@ Global
 		{564675EE-9778-4D95-84A4-F334704F4635} = {1A82A1FF-86D3-443C-AEC5-FEE52AEC0080}
 		{A5AC3D1C-33EE-4C4A-A743-C71CA9CC0526} = {1A82A1FF-86D3-443C-AEC5-FEE52AEC0080}
 		{C6256C19-8D95-42AA-832C-43914351B695} = {1A82A1FF-86D3-443C-AEC5-FEE52AEC0080}
+		{A5DE273C-0F32-4A68-965B-CFF9FF2A2923} = {1A82A1FF-86D3-443C-AEC5-FEE52AEC0080}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7A7A2F73-9FFF-49B0-A857-48A49F229847}
